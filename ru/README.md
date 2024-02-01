@@ -62,4 +62,5 @@ cosnt sdk: IGamesSdk = await window.GrandGames.init()
 - Информация о поддерживаемых платформах (десктоп, мобильные, планшеты)
 
 По всем вопросам обращайтесь сюда: https://grandgames.net/contact
+
 Либо, пишите в комментариях: https://grandgames.net/games/add
