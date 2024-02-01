@@ -25,7 +25,7 @@ Example:
 Or using async/await:
 
 ```
-cosnt sdk: IGamesSdk = await window.GrandGames.init()
+const sdk: IGamesSdk = await window.GrandGames.init()
 ```
 
 If your game is competitive, i.e. in it, during the game cycle, you need to score the maximum number of points from scratch in a limited period of time; it can be used in tournaments, which will increase its popularity on the portal.
