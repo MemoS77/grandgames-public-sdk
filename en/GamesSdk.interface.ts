@@ -104,6 +104,7 @@ export default interface IGamesSdk {
   /** Save game progress
    * Use to save completed levels, current solution/game status, etc.
    * Saved on the server for an authorized player and available later on any device.
+   * For an unauthorized player, the data is stored in localStorage in encoded format
    */
   save(data: Object): Promise<void>
 
