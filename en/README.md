@@ -53,7 +53,7 @@ The game must be packaged in an archive and have an index.html file in the root.
 
 - **icon.png** PNG, square from 256x256 to 512x512 (bigger = better)
 - **cover.webp** WebP, 1020x240
-- **main.jpg** JPEG, rectangle. Ideally 800x470. Acceptable: 500x300, but anything between 400x240 and 800x470 will do. Visible proportions may vary, so it is advisable to have 10-20% safety zones around the edges of the image.
+- **main.jpg** JPEG, rectangle. Ideally 500x300, but anything between 400x240 and 800x470 will do. Visible proportions may vary, so it is advisable to have 10-20% safety zones around the edges of the image.
 
 ## Other
 
